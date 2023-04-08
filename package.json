@@ -1,8 +1,8 @@
 {
-  "name": "movies",
+  "name": "my-movies-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MaxF1996.github.io/movies/",
+  "homepage": "https://MaxF1996.github.io/my-movies-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
